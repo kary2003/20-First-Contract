@@ -26,16 +26,12 @@ contract TieredProfitSplitter {
         amount = points * 60;
         total = amount + total;
         employee_one.transfer(amount);
-        // Step 1: Set amount to equal `points` * the number of percentage points for this employee
-        // Step 2: Add the `amount` to `total` to keep a running total
-        // Step 3: Transfer the `amount` to the employee
-
-        
+   
         amount = points * 25;
         total = amount + total;
         employee_two.transfer(amount);
         
-        amount = points * 10;
+        amount = points * 15;
         total = amount + total;
         employee_three.transfer(amount);
 
