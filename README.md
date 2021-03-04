@@ -44,4 +44,6 @@ The contracts will serve the following purposes:
 
 # [Deffered Equity Plan](https://github.com/kary2003/20-First-Contract/blob/main/DeferredEquityPlan.sol)
 
+## Ganache/ Compile/ Deploy & Run Transactions
+
 ![DefferedEquityPlan](https://user-images.githubusercontent.com/70820754/109901359-28e41500-7c56-11eb-94b3-1a6a008e755c.gif)
