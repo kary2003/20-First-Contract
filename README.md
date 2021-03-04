@@ -22,6 +22,10 @@ The contracts will serve the following purposes:
 
 * HR Account: 0xDCc954Af8d1dB11f12c6c519E341ee52a725cbE2
 
+### MetaMask 
+
+* Contracts tested and deployed on localhost 8545
+
 # [Associate Splitter Contract](https://github.com/kary2003/20-First-Contract/blob/main/AssociateProfitSplitter.sol)
 
 ## Ganache
